@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sunwait-nsk
-- 👀 I’m interested in  программирование Python
+- 👀 I’m interested in  программирование Python and big data
 - 🌱 I’m currently learning  в школе  Skillbox
 - 💞️ I’m looking to collaborate on  в любом проекте для саморазвития и обучения
 - 📫 How to reach me  - https://github.com/Sunwait-nsk/resume
